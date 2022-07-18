@@ -1,3 +1,3 @@
-from resolv3r import *
+from resolv3r import Resolver as Resolver
 
-__version__ = "1.0.1"
+__version__ = "1.0.2"
