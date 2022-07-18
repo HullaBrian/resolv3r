@@ -6,7 +6,7 @@ build-backend = "poetry.core.masonrt.api"
 
 [tool.poetry]
 name = "resolv3r"
-version = "1.0.1"
+version = "1.0.2"
 description = "A simple python package aimed at simplifying the vendor resolution process for network devices"
 authors = ["hullabrian"]
 readme="README.md"
